@@ -1,7 +1,7 @@
 # URL's
 
 ## Database
-SaaS PostGreSQL: https://www.elephantsql.com/<br/>
+SaaS PostGreSQL: https://www.elephantsql.com/ 
 ArangoDB: https://www.arangodb.com/tutorials/  
 PostGresSQL on Ubuntu: https://tecadmin.net/install-postgresql-server-on-ubuntu/RESTFul API for Mongo: https://compose.com/articles/building-instant-restful-apis-with-mongodb-and-restheart/
 
