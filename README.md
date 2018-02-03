@@ -1,22 +1,22 @@
 # URL's
 
 ## Database
-SaaS PostGreSQL: https://www.elephantsql.com/ 
+SaaS PostGreSQL: https://www.elephantsql.com/  
 ArangoDB: https://www.arangodb.com/tutorials/  
-PostGresSQL on Ubuntu: https://tecadmin.net/install-postgresql-server-on-ubuntu/RESTFul API for Mongo: https://compose.com/articles/building-instant-restful-apis-with-mongodb-and-restheart/
-
+PostGresSQL on Ubuntu: https://tecadmin.net/install-postgresql-server-on-ubuntu/RESTFul API for Mongo: https://compose.com/articles/building-instant-restful-apis-with-mongodb-and-restheart/  
+  
 ##ReactJS
-https://jscomplete.com/repl/
-https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
-
+https://jscomplete.com/repl/  
+https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a  
+  
 ## Containers
-Storage: https://rook.io/
-Testing: https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9?imm_mid=0ef541&cmp=em-webops-na-na-newsltr_20170324
-WordPress & docker: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04?utm_medium=newsletter&utm_source=tutorials&utm_campaign=12315
-
+Storage: https://rook.io/  
+Testing: https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9?imm_mid=0ef541&cmp=em-webops-na-na-newsltr_20170324  
+WordPress & docker: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04?utm_medium=newsletter&utm_source=tutorials&utm_campaign=12315  
+  
 ## Code classes
-https://codein.withgoogle.com/
-https://www.codeschool.com/
+https://codein.withgoogle.com/  
+https://www.codeschool.com/  
 https://www.pluralsight.com
 
 ## Python
